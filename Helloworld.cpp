@@ -1,9 +1,13 @@
-#include<iostream>
-using namespace std;
-int main()
-{
+                 #include<iostream>
+// processor-directive     headerfile  
 
-    cout<<"Hello world "<<endl;
+using namespace std;//      stander input output
 
-    return 0;
-}
+int main()      // integer data-type    main function-name      parenthesis
+{//     curly bracess
+
+    cout<<"Hello world "<<endl; //  << is Extraction Operator 
+//          "display-on-screen :"                      //  >>  is Insertion Operator 
+
+    return 0;           //End of program 
+}   //closing curly bracess
