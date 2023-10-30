@@ -1,4 +1,5 @@
 // Time complexity is O(n)
+//Linear Search
 #include<bits/stdc++.h>
 using namespace std;
 
